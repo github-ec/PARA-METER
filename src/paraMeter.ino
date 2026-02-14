@@ -34,7 +34,7 @@ void setup() {
   
   InitLCDGerman();
   lcd.setCursor(0, 0);
-  lcd.print("PARA-METER DIY 1.3");
+  lcd.print("PARA-METER 1.3");
   lcdZeile2("Initialisieren");
 
   wordPlayer.init();
