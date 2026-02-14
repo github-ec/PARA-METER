@@ -1,5 +1,5 @@
 # PARA-METER
-Pseudo "Paranomal Meter" - A system to retrieve and replay words based on random values
+Pseudo "Paranormal Activity Meter" - A system to retrieve and replay words based on random values
 
 Directory Python:
 Contains a script that converts the word lists in WordLists.h to speech and saves a separate mp3 per entry
