@@ -33,3 +33,8 @@ Arduino RX Pin 10 and
 Arduino TX Pin 11 both for SoftwareSerial communication with the DFRobot Player
 Arduino A4 (open) to feed randomSeed()
 Arduino A1 (open or with a short antenna) to create random input for the category/word choice
+
+To display German Umlaute äöü etc. the project uses a specific LCD library developed by noiasca.
+It can be downloaded from https://werner.rothschopf.net/202009_arduino_liquid_crystal_intro.htm
+
+Many thanks to my Arduino Forum Member noiasca for providing this library for free!
